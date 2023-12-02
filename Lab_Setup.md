@@ -28,3 +28,15 @@ This guide explains how to set up a SOC lab using VirtualBox, Splunk, and relate
 ### 4. Simulate Events
 - Use tools like Nmap and Metasploit on Kali Linux to generate logs.
 - Monitor logs in Splunk and create dashboards for analysis.
+
+
+## Tools Used
+- VirtualBox
+- Splunk Enterprise
+- Kali Linux
+- Windows 10
+
+## Simulations
+- Run Nmap to generate logs in Splunk.
+- Use Metasploit for additional attack simulations.
+
